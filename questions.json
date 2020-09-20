@@ -1,0 +1,36 @@
+{
+	"$greeting": [
+		"Hi there! How are you?",
+		"Hello. What's up?"
+	],
+	"dad": [
+		"Have you ever argued with your dad?",
+		"How can you describe your relationship with your father?",
+		"Do you respect your dad? Why?",
+		""
+	],
+	"mom": [
+		"Describe your feelings about your mother.",
+		"What is the best thing about your mom?",
+		"Does she often argue with his husband? Have you ever seen that?" 
+	],
+	"sad": [
+		"Why do you feel depressed?",
+		"Did you try to do anything with your sadness?",
+		"Everyone sometimes feels lonely, even I do. Try to describe your feelings.",
+		"What would you do, if your close friend was sad?",
+		"Did you ask anyone from your familiy to help? Whom?"
+	],
+	"frineds": [
+		"How do you thing: are you a good friend?",
+		"Who is your best friend? Describe him and why do you think he is a best."
+	],
+	"$default": [
+		"What's bothering you?",
+		"Do you feel happy?",
+		"Does your family have strong impact on you?",
+		"Describe your personality.",
+		"And what?",
+		"Try to explain your feeling."
+	]
+}

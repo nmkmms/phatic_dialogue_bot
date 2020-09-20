@@ -1,0 +1,19 @@
+{
+	"dad": "dad",
+	"father": "dad",
+	"daddy": "dad",
+	"mom": "mom",
+	"mum": "mom",
+	"mother": "mom",
+	"friend": "friend",
+	"friends": "friend",
+	"dude": "friend",
+	"sad": "sad",
+	"sadness": "sad",
+	"depression": "sad",
+	"depressed": "sad",
+	"lonely": "sad",
+	"bad": "sad",
+	"hello": "$greeting",
+	"hi": "$greeting"
+}
