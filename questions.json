@@ -7,12 +7,13 @@
 		"Have you ever argued with your dad?",
 		"How can you describe your relationship with your father?",
 		"Do you respect your dad? Why?",
-		""
+		"But what about your mother?",
+		"He divorced your mom?"
 	],
 	"mom": [
 		"Describe your feelings about your mother.",
 		"What is the best thing about your mom?",
-		"Does she often argue with his husband? Have you ever seen that?" 
+		"Does she often argue with your father? Have you ever seen that?" 
 	],
 	"sad": [
 		"Why do you feel depressed?",
@@ -31,6 +32,6 @@
 		"Does your family have strong impact on you?",
 		"Describe your personality.",
 		"And what?",
-		"Try to explain your feeling."
+		"Try to explain your feelings."
 	]
 }
